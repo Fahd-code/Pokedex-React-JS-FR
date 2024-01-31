@@ -28,7 +28,7 @@ Il s'agit d'une application Web Pokédex construite à l'aide de ReactJS, Redux 
 
 - Clonez le référentiel sur votre machine locale :
 ```bash
-clone git https://github.com/Fahd-code/Pokedex-en-ReactJS.git
+clone git https://github.com/Fahd-code/Pokedex-React-JS-FR.git
 - Accédez au répertoire du projet :
 ```bash
 cd Pokedex-en-ReactJS
