@@ -37,7 +37,7 @@ const Header = () => {
                <div className="header-right">
 					<div>
 						<a>
-							<a target='_blank' href=https://pokedexreactjsfr.netlify.app/">
+							<a target='_blank' href="https://github.com/Fahd-code/">
 							    <div className="header-img">
 									<img src="/github.png" alt="" />
 								</div>
@@ -47,9 +47,9 @@ const Header = () => {
 					<span>/\/\/\</span>
 					<div>
 						<a>
-							<a target='_blank' href="https://www.linkedin.com/in/nareshkumaralaria/">
+							<a target='_blank' href="emailto:fahd.bahjaji@ecoles-epsi.net">
 								<div className="header-img">
-									<img src="/LinkedIn.png" alt="" />
+									<img src="/Email.png" alt="" />
 								</div>
 							</a>
 						</a>
