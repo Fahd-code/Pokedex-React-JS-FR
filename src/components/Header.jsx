@@ -29,7 +29,7 @@ const Header = () => {
                     </div>
                 </Link>
                 <div className="header-right">
-                    <a target='_blank' href="https://lucky-cocada-355e1e.netlify.app/">FRANÇAIS</a>
+                    <a target='_blank' href="https://pokedexreactjsfr.netlify.app/">FRANÇAIS</a>
                     <span>/</span>
 					<a target='_blank' href="http://blabla">ENGLISH</a>
                 </div>
@@ -37,7 +37,7 @@ const Header = () => {
                <div className="header-right">
 					<div>
 						<a>
-							<a target='_blank' href="https://github.com/nareshkumaralari">
+							<a target='_blank' href=https://pokedexreactjsfr.netlify.app/">
 							    <div className="header-img">
 									<img src="/github.png" alt="" />
 								</div>
