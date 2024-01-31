@@ -31,7 +31,7 @@ const Header = () => {
                 <div className="header-right">
                     <a target='_blank' href="https://pokedexreactjsfr.netlify.app/">FRANÇAIS</a>
                     <span>/</span>
-					<a target='_blank' href="http://blabla">ENGLISH</a>
+					<a target='_blank' href="https://pokedexreactjseng.netlify.app/">ENGLISH</a>
                 </div>
 				
                <div className="header-right">
