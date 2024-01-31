@@ -47,7 +47,7 @@ const Header = () => {
 					<span>/\/\/\</span>
 					<div>
 						<a>
-							<a target='_blank' href="emailto:fahd.bahjaji@ecoles-epsi.net">
+							<a target='_blank' href="mailto:fahd.bahjaji@ecoles-epsi.net">
 								<div className="header-img">
 									<img src="/Email.png" alt="" />
 								</div>
