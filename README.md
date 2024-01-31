@@ -3,7 +3,7 @@ Il s'agit d'une application Web Pokédex construite à l'aide de ReactJS, Redux 
 
 ## Live Link
 
-[https://lucky-cocada-355e1e.netlify.app)
+[https://https://pokedexreactjsfr.netlify.app/)
 
 ## - **Page de recherche :** Les utilisateurs peuvent rechercher des Pokémon par leur nom. L'application effectue un appel API pour récupérer les données Pokémon et affiche des indicateurs de chargement et des messages d'erreur si nécessaire.
 
